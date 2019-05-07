@@ -5,7 +5,7 @@
 
 > A curated collection of useful JavaScript articles for developers at all levels. My goal was to include a one-stop source for those looking for must read JS docs.
 
-http://kikoestrada.com
+<a href=“https://kikoestrada.com” target=“_blank”>[Personal Website]http://kikoestrada.com</a>
 
 ### View online
 
